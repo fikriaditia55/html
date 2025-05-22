@@ -129,7 +129,7 @@ body.dark {
 
 body.dark header,
 body.dark footer {
-    background: linear-gradient(90deg, #222222, #444);
+    background: linear-gradient(90deg, #222, #444);
 }
 
 body.dark nav a {
